@@ -18,7 +18,7 @@ The goal of this project is to explore whether features from movie posters can h
 - This folder contains a sample of movie poster images used in this project. The full poster set is too large to host on GitHub, so we provide a sample of 100 images in the `posters/` folder.
 
 ### `omdb_enriched_data.csv`
-- This CSV file contains the result of processing the Kaggle `movies.csv` dataset by enriching it with additional data from OMDb, such as poster URLs, ratings, and other metadata fields related to the movies.
+- This CSV file contains the output of the `acquire_data.ipynb` and is the result of processing the Kaggle `movies.csv` dataset by enriching it with additional data from OMDb, such as poster URLs, ratings, and other metadata fields related to the movies.
 
 ### `acquire_data.ipynb`
 - This notebook contains the code used to fetch movie posters from OMDb and enrich the movie metadata with poster paths for further analysis.
