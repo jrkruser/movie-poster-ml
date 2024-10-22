@@ -32,7 +32,3 @@ The goal of this project is to explore whether features from movie posters can h
 
 ## Getting Started
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/movie-poster-ml.git
-   cd movie-poster-ml
